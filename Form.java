@@ -1,0 +1,3 @@
+interface Form {
+     float calculateAreaMethode();
+}
